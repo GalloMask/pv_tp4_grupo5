@@ -69,8 +69,7 @@ p {
 }
 
 .input-numero:focus {
-  outline: 2px solid #6B8E23;
-  outline-offset: 2px;
+  outline: none;
   border-color: #6B8E23;
   box-shadow: 0 0 8px rgba(107, 142, 35, 0.3);
 }
