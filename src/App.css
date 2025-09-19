@@ -101,6 +101,7 @@ p {
   cursor: pointer;
   transition: all 0.3s ease;
   min-width: 120px;
+  text-transform: none;
 }
 
 .btn-verificar {
