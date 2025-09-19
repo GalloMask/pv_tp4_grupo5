@@ -111,7 +111,7 @@ p {
 .btn-verificar:hover:not(:disabled) {
   background-color: #98FB98;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(144, 238, 144, 0.3);
+  box-shadow: 0 4px 12px rgba(144, 238, 144, 0.4);
 }
 
 .btn-rendirse {
@@ -123,7 +123,7 @@ p {
 .btn-rendirse:hover:not(:disabled) {
   background-color: #F5DEB3;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(240, 230, 140, 0.3);
+  box-shadow: 0 4px 12px rgba(240, 230, 140, 0.4);
 }
 
 .btn-iniciar,
